@@ -35,7 +35,7 @@
 $('iframeautoheight').contentDocument.getElementById("Button2").click()
 ```
 ## 用法（视频介绍）
-[](/video/pingjiao.mp4)
+/video/pingjiao.mp4
 
 
 ## 联系方式
